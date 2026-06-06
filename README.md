@@ -2,7 +2,7 @@
 
 ## Resources
 
-- Paper: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11045424)
+- Paper: [Hierarchical Uncertainty-Aware Salient Object Detection for 360∘ Images via Bi-Projection Collaborative Learning](https://ieeexplore.ieee.org/abstract/document/11045424)
 - Checkpoint: [Google Drive](https://drive.google.com/file/d/1OC-bqwWZmdeLEKjfyqeM_XFdVHg2r2P8/view?usp=drive_link)
 
 ## Installation
