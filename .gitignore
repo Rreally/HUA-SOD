@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ssh_known_hosts
+
+# This checkpoint is too large for regular GitHub git pushes.
+ckpt.pth
